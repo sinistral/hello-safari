@@ -1,0 +1,4 @@
+
+{:require  [hellosafari.core]
+ :init-fns [hellosafari.core/main]
+ :compiler-options {}}
