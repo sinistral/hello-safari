@@ -30,13 +30,11 @@ evaluate forms in the REPL does still make it possible to iterate quickly.
 
 ## License
 
-Copyright © 2016 Marc Daya
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Published under the [2-clause BSD license][license].
 
 [boot]:    https://github.com/boot-clj/boot
 [cljs]:    https://github.com/clojure/clojurescript
 [cider]:   https://github.com/clojure-emacs/cider
 [profile]: https://github.com/boot-clj/boot/wiki/Cider-REPL#a-better-way
 [extb]:    https://developer.apple.com/library/content/documentation/Tools/Conceptual/SafariExtensionGuide/UsingExtensionBuilder/UsingExtensionBuilder.html
+[license]: https://opensource.org/licenses/BSD-2-Clause
