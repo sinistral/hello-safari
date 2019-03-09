@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
     <string>Hello, Safari</string>
 	<key>CFBundleIdentifier</key>
-    <string>net.sinistral.hellosafari</string>
+    <string>net.sinistral.hello-safari</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>

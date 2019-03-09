@@ -15,8 +15,8 @@
   '[adzerk.boot-cljs      :refer [cljs]]
   '[adzerk.boot-cljs-repl :refer [cljs-repl start-repl]])
 
-(def proj-name "hellosafari")
-(def extn-name "hellosafari.safariextension")
+(def proj-name "hello-safari")
+(def extn-name "hello-safari.safariextension")
 
 (set-env!
  :source-paths #{"src"}

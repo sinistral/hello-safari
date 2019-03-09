@@ -1,5 +1,5 @@
 
-(ns hellosafari.env)
+(ns hello-safari.env)
 
 (defn app
   []

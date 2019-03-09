@@ -14,7 +14,7 @@ development environment, the path to the REPL is:
 * The REPL will now wait for a client (browser) to connect to the
   websocket.
 * In Safari: add/reload the extension using Safari's
-  [_Extension Builder_][extb] (select the `hellosafari.safariextension`
+  [_Extension Builder_][extb] (select the `hello-safari.safariextension`
   directory in the project's `tgt` directory).  When it starts up, the
   extension will connect to the websocket and run the `init-fn`
   (cf. `main.cljs.edn`).

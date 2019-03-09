@@ -1,6 +1,6 @@
 
-(ns hellosafari.core
-  (:require [hellosafari.env :as env]))
+(ns hello-safari.core
+  (:require [hello-safari.env :as env]))
 
 (defn main
   []
